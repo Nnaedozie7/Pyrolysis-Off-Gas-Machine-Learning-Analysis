@@ -1,6 +1,6 @@
 # Pyrolysis Off-Gas Machine Learning Analysis
 
-This repository is about applying **unsupervised machine learning** to **pyrolysis off-gas data**.  
+This project applies **unsupervised machine learning** to **pyrolysis off-gas data**.  
 The goal was **not** to build a predictive model, but to understand **what is happening chemically and when**, using multivariate data analysis.
 
 The workflow evolved as I learned more about the data, and this README reflects the **final, correct reasoning path**.
